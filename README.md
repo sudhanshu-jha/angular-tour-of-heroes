@@ -1,4 +1,5 @@
 # AngularTourOfHeroes
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3ad63f02baac4716ae3786d46acf3db1)](https://www.codacy.com/app/sudhanshu-jha/angular-tour-of-heroes?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sudhanshu-jha/angular-tour-of-heroes&amp;utm_campaign=Badge_Grade)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
